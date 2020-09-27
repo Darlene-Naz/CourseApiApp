@@ -1,0 +1,45 @@
+----------------------------------------------------------------
+Mon Sep 28 01:15:09 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-d118-f8f1-000006184800 
+on database directory memory:C:\Users\Darlene\Desktop\GitHub\CourseApiApp\d2cbe11b-a771-4160-b034-4fc71cf1fb4a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/Darlene/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\Darlene\Desktop\GitHub\courseapiapp
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Sep 28 01:24:12 IST 2020:
+Shutting down instance a816c00e-0174-d118-f8f1-000006184800 on database directory memory:C:\Users\Darlene\Desktop\GitHub\CourseApiApp\d2cbe11b-a771-4160-b034-4fc71cf1fb4a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+----------------------------------------------------------------
+Mon Sep 28 01:24:14 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eaa980c4-0174-d118-f8f1-000006184800 
+on database directory memory:C:\Users\Darlene\Desktop\GitHub\CourseApiApp\5d5e7529-089b-4848-8cdd-b51b41ecd5ca with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/Darlene/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\Darlene\Desktop\GitHub\courseapiapp
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Sep 28 01:30:11 IST 2020:
+Shutting down instance eaa980c4-0174-d118-f8f1-000006184800 on database directory memory:C:\Users\Darlene\Desktop\GitHub\CourseApiApp\5d5e7529-089b-4848-8cdd-b51b41ecd5ca with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+----------------------------------------------------------------
+Mon Sep 28 01:30:13 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4aaa4172-0174-d118-f8f1-000006184800 
+on database directory memory:C:\Users\Darlene\Desktop\GitHub\CourseApiApp\d69f6bcc-64f1-4d99-b173-f40ebdb5ee90 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/Darlene/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\Darlene\Desktop\GitHub\courseapiapp
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
